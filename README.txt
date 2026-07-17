@@ -1,4 +1,4 @@
-🚀 Data Structures & Algorithms (DSA) Basics | Study & Reference Guide
+#🚀 Data Structures & Algorithms (DSA) Basics | Study & Reference Guide
 
 Welcome to the **[Data-structure-basics](https://github.com/AbdullahSaied52/Data-structure-basics)** repository! This project serves as a comprehensive, hands-on reference for key data structures, collections, and **LINQ (Language Integrated Query)** operations. 
 
